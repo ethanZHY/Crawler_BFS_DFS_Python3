@@ -1,6 +1,6 @@
 # Crawler_BFS_DFS
 
-BFS Crawler and DFS Crawler
+BFS Crawler and DFS Crawler by ethanZHY
 
 In Python 3.6
 
